@@ -145,11 +145,14 @@
     .top {
         margin-top: -40px;
     }
-
+   .top .leftside{
+    width:60%;
+    }
+    
     .title {
         font-size: 4vw;
         letter-spacing: .5vw;
-    }
+      }
 
     main {
         padding: 0 0 20vw 0;
@@ -335,6 +338,11 @@
         padding-bottom: 12vw;
         height: 170vw;
         gap: .1vw;
+    }
+  .leftside .para {
+        font-size: 1.5vw;
+        line-height: 2.7vw;
+        color: var(--primary-color);
     }
 
     main .leftside {
