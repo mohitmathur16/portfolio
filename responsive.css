@@ -341,12 +341,12 @@
         width: 76%;
     }
     .leftside .para {
-        font-size: 3vw;
+        font-size: 3.3vw;
         line-height: 4.7vw;
         text-align: center;
     }
     svg {
-        width: 210%;
+        width: 250%;
     }
     svg text {
         font-size: 9.9vw;
