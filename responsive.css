@@ -340,18 +340,13 @@
      .top .leftside{
           width:80%;
         }
-  .leftside .para {
-        font-size: 1.5vw;
-        line-height: 3vw;
-        color: var(--primary-color);
-    }
 
     main .leftside {
         width: 76%;
     }
     .leftside .para {
         font-size: 3.3vw;
-        line-height: 4.5vw;
+        line-height: 5.2vw;
         text-align: center;
     }
     svg {
