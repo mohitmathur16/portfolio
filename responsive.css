@@ -400,8 +400,8 @@
     }
 
     main .middle .mflex .mlside .para {
-        font-size: 2.8vw;
-        line-height: 5vw;
+        font-size: 3vw;
+        line-height: 5.1vw;
     }
 
     main .middle .mflex .skills {
@@ -411,7 +411,7 @@
     }
 
     main .middle .mflex .skills p {
-        height: 8vw;
+        height: 9vw;
         width: 25vw;
         line-height: 1.8vw;
         font-size: 2.8vw;
