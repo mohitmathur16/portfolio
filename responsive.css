@@ -469,6 +469,7 @@
     }
 
     main .contact form textarea {
+          height: 4.5vw;
         width: 64vw;
         font-size: 3.2vw;
     }
@@ -482,11 +483,11 @@
 
     main .testimonial {
         width: 80vw;
-        gap: 5vw;
+        gap: 6vw;
     }
 
     main .testimonial p {
-        line-height: 5vw;
+        line-height: 5.5vw;
         font-size: 3.3vw;
         text-align: center;
     }
