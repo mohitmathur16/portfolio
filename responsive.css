@@ -355,10 +355,10 @@
         text-align: center;
     }
     svg {
-        width: 250%;
+        width: 170%;
     }
     svg text {
-        font-size: 9.9vw;
+        font-size: 10vw;
     }
     .rightside img {
         height: 99vw;
