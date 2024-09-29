@@ -1,0 +1,514 @@
+@media only screen and (max-width:922px) {
+    header {
+        gap: 39vw;
+    }
+
+    header>a img {
+        height: 5.9vw;
+        width: 5.9vw;
+    }
+
+    svg {
+        width: 110%;
+    }
+
+    .leftside .para {
+        font-size: 1.5vw;
+        line-height: 2.5vw;
+    }
+
+    .title {
+        font-size: 3.4vw;
+        letter-spacing: .5vw;
+    }
+
+    main .middle .top2 .about {
+        line-height: 3vw;
+        font-size: 1.7vw;
+        color: var(--light-color);
+    }
+
+    main .middle .mflex .mlside {
+        gap: 2vw;
+        width: 39%;
+    }
+
+    .bgblue {
+        font-size: 2.2vw;
+    }
+
+    main .middle .mflex {
+        gap: 8.5vw;
+    }
+
+    main .middle .mflex .mlside .para {
+        font-size: 1.6vw;
+        line-height: 2.9vw;
+    }
+
+    main .middle .mflex .skills {
+        grid-template-columns: 9vw 9vw 9vw;
+        grid-gap: 2vw;
+    }
+
+    main .middle .mflex .skills p {
+        height: 3.5vw;
+        width: 9vw;
+        line-height: 1.8vw;
+        font-size: 1.5vw;
+    }
+
+    main .middle .mflex .mlside .btn {
+        height: 4.7vw;
+        width: 12vw;
+        font-size: 1.8vw;
+    }
+
+    .bglight {
+        font-size: 1.5vw;
+    }
+
+    .portfolio .card .imgbox img {
+        width: 26vw;
+        height: 17vw;
+        border-radius: 20px;
+    }
+
+    main .contact {
+        border-top: 1.5px solid var(--bgdark);
+    }
+
+    main .contact img {
+        right: 45vw;
+        top: -4vw;
+        height: 10vw;
+        width: 10vw;
+    }
+
+    main .contact form {
+        gap: 6vw;
+    }
+
+    main .contact .cright {
+        padding: 13vw 0vw 0vw 0vw;
+    }
+
+    main .contact form .input {
+        width: 26vw;
+        font-size: 1.3vw;
+    }
+
+    main .contact form textarea {
+        width: 59vw;
+        font-size: 1.7vw;
+    }
+
+    main .contact .submit {
+        width: 12vw;
+        height: 4.5vw;
+        font-size: 2vw;
+    }
+
+    main .testimonial p {
+        line-height: 3vw;
+        font-size: 1.5vw;
+        text-align: center;
+    }
+
+    main .testimonial img {
+        height: 8vw;
+        width: 8vw;
+    }
+}
+
+@media only screen and (max-width:722px) {
+    header {
+        gap: 35vw;
+    }
+
+    header nav ul a {
+        font-size: 2vw;
+    }
+
+    header>a img {
+        height: 6.2vw;
+        width: 6.2vw;
+    }
+
+    .leftside .para {
+        font-size: 1.5vw;
+        line-height: 2.3vw;
+        color: var(--primary-color);
+    }
+
+    .top {
+        margin-top: -40px;
+    }
+
+    .title {
+        font-size: 4vw;
+        letter-spacing: .5vw;
+    }
+
+    main {
+        padding: 0 0 20vw 0;
+    }
+
+    main .middle .top2 .about {
+        line-height: 3vw;
+        font-size: 1.8vw;
+        color: var(--light-color);
+    }
+
+    main .middle .mflex .mlside {
+        gap: 2vw;
+        width: 43%;
+    }
+
+    .bgblue {
+        font-size: 2.8vw;
+    }
+
+    main .middle .mflex {
+        gap: 13vw;
+    }
+
+    main .middle .mflex .mlside .para {
+        font-size: 2vw;
+        line-height: 3.5vw;
+    }
+
+    main .middle .mflex .skills {
+        grid-template-columns: 12vw 12vw 12vw;
+        grid-template-rows: 7vw 7vw 7vw;
+        grid-gap: 1.2vw;
+    }
+
+    main .middle .mflex .skills p {
+        height: 6vw;
+        width: 12vw;
+        line-height: 1.8vw;
+        font-size: 1.9vw;
+    }
+
+    main .middle .mflex .mlside .btn {
+        height: 6.2vw;
+        width: 15vw;
+        font-size: 2.4vw;
+    }
+
+    .bglight {
+        font-size: 1.8vw;
+    }
+
+    .portfolio .card {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 2.7vw;
+    }
+
+    .portfolio .card .imgbox img {
+        width: 29vw;
+        height: 21vw;
+        border-radius: 20px;
+    }
+
+    main .contact img {
+        right: 43vw;
+        top: -5vw;
+        height: 12vw;
+        width: 12vw;
+    }
+
+    main .contact form {
+        padding: 2vw 0 0 0;
+        gap: 7vw;
+    }
+
+    main .contact .cright {
+        padding: 14vw 0vw 0vw 0vw;
+    }
+
+    main .contact form .input {
+        width: 28vw;
+        font-size: 1.8vw;
+    }
+
+    main .contact form textarea {
+        width: 64vw;
+        font-size: 2vw;
+    }
+
+    main .contact .submit {
+        width: 14vw;
+        height: 5vw;
+        font-size: 2.4vw;
+    }
+
+
+    main .testimonial {
+        width: 70vw;
+        gap: 2.7vw;
+    }
+
+    main .testimonial p {
+        line-height: 3.9vw;
+        font-size: 2.1vw;
+        text-align: center;
+    }
+
+    main .testimonial img {
+        height: 14vw;
+        width: 14vw;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    header {
+        height: 8vh;
+        gap: 75vw;
+    }
+
+    header>a img {
+        height: 9vw;
+        width: 9vw;
+    }
+
+    #removenav {
+        font-size: 6vw;
+    }
+
+    #nav {
+        display: none;
+    }
+
+    header nav ul {
+        position: fixed;
+        flex-direction: column;
+        height: 50vw;
+        width: 55vw;
+        top: .1vw;
+        right: -3.5vw;
+        gap: 4vw;
+        height: 200vw;
+        padding: 5vw 0vw;
+        background-color: var(--bgdark);
+    }
+
+    #humburger i {
+        font-size: 4.8vw;
+        color: var(--primary-color);
+        display: block;
+    }
+
+    header nav ul li {
+        height: 8vw;
+        padding: 1vw 1vw;
+    }
+
+    header nav ul li:hover {
+        background-color: var(--primary-color);
+    }
+
+    header nav ul li:hover i {
+        color: var(--bgdark);
+    }
+
+    header nav ul li:hover a {
+        color: var(--bgdark);
+    }
+
+    header nav ul a {
+        padding: 1.6vw 2vw;
+        font-size: 3vw;
+    }
+
+    header nav ul i {
+        visibility: visible;
+    }
+
+    .top {
+        flex-direction: column;
+        overflow: hidden;
+        margin-top: -1px;
+        padding-bottom: 12vw;
+        height: 150vw;
+        gap: .1vw;
+    }
+
+    main .leftside {
+        width: 76%;
+    }
+    .leftside .para {
+        font-size: 3vw;
+        line-height: 4.7vw;
+        text-align: center;
+    }
+    svg {
+        width: 190%;
+    }
+    svg text {
+        font-size: 9.9vw;
+    }
+    .rightside img {
+        height: 99vw;
+        width: 89vw;
+        border: none;
+        animation: small 3s linear 1;
+    }
+    .title {
+        font-size: 5.5vw;
+        letter-spacing: .8vw;
+    }
+    main {
+        gap: 18vw;
+        padding: 0 0 45vw 0;
+    }
+
+    main .middle {
+        gap: 9vw;
+    }
+
+    main .middle .mflex {
+        width: 70%;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main .middle .top2 .about {
+        line-height: 4vw;
+        font-size: 2.3vw;
+        color: var(--light-color);
+    }
+
+    main .middle .mflex .mlside {
+        gap: 2vw;
+        width: 100%;
+    }
+
+    main .middle .mflex .mrtside {
+        width: 100%;
+        gap: 4vw;
+    }
+
+    .bgblue {
+        font-size: 3.5vw;
+    }
+
+    main .middle .mflex {
+        gap: 13vw;
+    }
+
+    main .middle .mflex .mlside .para {
+        font-size: 2.8vw;
+        line-height: 5vw;
+    }
+
+    main .middle .mflex .skills {
+        grid-template-columns: 25vw 25vw 25vw;
+        grid-template-rows: 7vw 7vw 7vw;
+        grid-gap: 4vw;
+    }
+
+    main .middle .mflex .skills p {
+        height: 8vw;
+        width: 25vw;
+        line-height: 1.8vw;
+        font-size: 2.8vw;
+    }
+
+    main .middle .mflex .mlside .btn {
+        height: 7.7vw;
+        width: 20vw;
+        font-size: 3.2vw;
+    }
+
+    .bglight {
+        font-size: 2.4vw;
+        padding: 0 0 1vw 0;
+    }
+
+    .portfolio .card {
+        grid-template-columns: 1fr;
+        grid-gap: 5vw;
+    }
+
+    .portfolio .card .imgbox img {
+        width: 79vw;
+        height: 49vw;
+        border-radius: 20px;
+    }
+
+    main .contact img {
+        right: 43vw;
+        top: -7vw;
+        height: 16vw;
+        width: 16vw;
+    }
+
+    main .contact form {
+        padding: 2vw 0 0 0;
+        gap: 10vw;
+    }
+
+    main .contact .cright {
+        padding: 14vw 0vw 0vw 0vw;
+    }
+
+    main .contact form .input {
+        width: 28vw;
+        font-size: 2vw;
+    }
+
+    main .contact form textarea {
+        width: 64vw;
+        font-size: 2.9vw;
+    }
+
+    main .contact .submit {
+        width: 25vw;
+        height: 9vw;
+        font-size: 4.5vw;
+    }
+
+
+    main .testimonial {
+        width: 70vw;
+        gap: 5vw;
+    }
+
+    main .testimonial p {
+        line-height: 5vw;
+        font-size: 3.3vw;
+        text-align: center;
+    }
+
+    main .testimonial img {
+        height: 23vw;
+        width: 23vw;
+    }
+
+    footer {
+        margin-top: 5vw;
+        height: 90vw;
+    }
+
+    footer section ul {
+        flex-direction: column;
+        text-align: center;
+        gap: 6vw;
+    }
+
+    footer .icons {
+        gap: 5vw;
+    }
+
+    footer .icons i {
+        font-size: 5vw;
+        padding: 6vw 0 0 0;
+    }
+
+    footer .end {
+        font-size: 2.8vw;
+    }
+}
