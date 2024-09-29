@@ -337,6 +337,7 @@
     }
      .top .leftside{
           width:60%;
+         background-color:red;
         }
   .leftside .para {
         font-size: 1.5vw;
