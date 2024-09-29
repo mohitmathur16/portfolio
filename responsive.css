@@ -448,7 +448,7 @@
 
     main .contact form {
         padding: 2vw 0 0 0;
-        gap: 10vw;
+        gap: 12vw;
     }
 
     main .contact .cright {
@@ -457,12 +457,12 @@
 
     main .contact form .input {
         width: 28vw;
-        font-size: 2vw;
+        font-size: 2.2vw;
     }
 
     main .contact form textarea {
         width: 64vw;
-        font-size: 2.9vw;
+        font-size: 3vw;
     }
 
     main .contact .submit {
