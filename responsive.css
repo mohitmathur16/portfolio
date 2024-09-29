@@ -1,6 +1,7 @@
 @media only screen and (max-width:922px) {
     header {
         gap: 39vw;
+            background-color: var(--grey-color);
     }
 
     header>a img {
@@ -337,7 +338,6 @@
     }
      .top .leftside{
           width:60%;
-         background-color:red;
         }
   .leftside .para {
         font-size: 1.5vw;
