@@ -267,7 +267,6 @@
 @media only screen and (max-width:580px) {
     header {
         height: 8vh;
-           background-color: blue;
         gap: 75vw;
     }
 
