@@ -333,7 +333,7 @@
         overflow: hidden;
         margin-top: -1px;
         padding-bottom: 12vw;
-        height: 150vw;
+        height: 170vw;
         gap: .1vw;
     }
 
@@ -342,7 +342,7 @@
     }
     .leftside .para {
         font-size: 3.3vw;
-        line-height: 4.7vw;
+        line-height: 4.5vw;
         text-align: center;
     }
     svg {
@@ -474,7 +474,7 @@
 
 
     main .testimonial {
-        width: 70vw;
+        width: 80vw;
         gap: 5vw;
     }
 
