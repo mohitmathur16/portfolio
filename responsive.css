@@ -345,7 +345,7 @@
         text-align: center;
     }
     svg {
-        width: 190%;
+        width: 210%;
     }
     svg text {
         font-size: 9.9vw;
@@ -448,7 +448,7 @@
 
     main .contact form {
         padding: 2vw 0 0 0;
-        gap: 12vw;
+        gap: 13vw;
     }
 
     main .contact .cright {
@@ -462,7 +462,7 @@
 
     main .contact form textarea {
         width: 64vw;
-        font-size: 3vw;
+        font-size: 3.2vw;
     }
 
     main .contact .submit {
@@ -489,7 +489,7 @@
     }
 
     footer {
-        margin-top: 10vw;
+        margin-top: 15vw;
         height: 90vw;
     }
 
