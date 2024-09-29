@@ -1,7 +1,7 @@
 @media only screen and (max-width:922px) {
     header {
         gap: 39vw;
-            background-color: var(--grey-color);
+         
     }
 
     header>a img {
@@ -267,6 +267,7 @@
 @media only screen and (max-width:580px) {
     header {
         height: 8vh;
+           background-color: red;
         gap: 75vw;
     }
 
